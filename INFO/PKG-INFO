@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: Ashu-Enes-Pana
+Version: 0.0.1
+Summary: Power Eloectronics Lab Report
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: setuptools
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: scipy
+Dynamic: requires-dist
+Dynamic: summary
